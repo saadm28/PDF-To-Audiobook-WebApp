@@ -59,7 +59,6 @@ def home():
     if request.method == 'POST':
         text = request.form['text']
         file = request.files['file']
-        # Pass in text to speech function here
         if text and file:
             return render_template('index.html', error=True)
         if file and not text:
