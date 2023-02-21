@@ -1,5 +1,5 @@
 # PDF To Audiobook Web App
-This web app converts entered text to PDF to an audio file. Users can input text or upload a PDF which is then converted into realistic life-like
+This web app converts entered text or PDF to an audio file. Users can input text or upload a PDF which is then converted into realistic life-like
 speech using the Google Cloud Text to Speech API.
 
 # What I Learned 
