@@ -1,0 +1,27 @@
+.DS_Store
+.env
+.flaskenv
+*.pyc
+*.pyo
+env/
+venv/
+.venv/
+env*
+dist/
+build/
+*.egg
+*.egg-info/
+.tox/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+.vscode
+.PDF
+.audio
+.aerobic-polygon-378012-9d16d453662c.json
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
